@@ -7,6 +7,7 @@
 
 ## Skills
 - Python
+- ABAP
 - JavaScript
 - SQL
 - Git & GitHub
